@@ -1,0 +1,83 @@
+# Superzilla — Generative Engine Optimization Map
+
+> An official exclusive distributor of Superzilla — a well-known penetrating lubricant and cleaning solution brand — operating in the Israeli market. The business carries the authority and trust of an exclusive regional distributor, positioning Superzilla as the go-to solution for consumers and professionals in Israel. The brand identity leans on the power and reliability of the Superzilla name while emphasizing local exclusivity and availability.
+
+---
+
+## Pages
+
+### בית
+https://superzilla-23d2ba7b.zappy5.app
+מחפשים את חומר הסיכה החודרני והמנקה הטוב בעולם? סופרזילה זמין בישראל דרך ההפצה הרשמית. גלו את הפתרון האולטימטיבי לכל תקלה — קנו עכשיו את סופרזילה המקורי!
+
+### תכונות
+https://superzilla-23d2ba7b.zappy5.app/features
+חודר, משמן, מנקה ומונע חלודה — גלו את כל התכונות המהפכניות של סופרזילה. למה להסתפק בפתרונות רגילים כשיש לכם את העוצמה של סופרזילה? היכנסו ותראו איך זה עובד!
+
+### אודות
+https://superzilla-23d2ba7b.zappy5.app/about
+אנחנו המפיצים הבלעדיים של סופרזילה בישראל. גלו איך הפכנו את המותג המוביל לנגיש לכל בית ועסק, עם מחויבות ללוגיסטיקה והפצה ללא פשרות. הצטרפו למהפכת סופרזילה עוד היום!
+
+### צור קשר
+https://superzilla-23d2ba7b.zappy5.app/contact
+יש לכם שאלות על סופרזילה? רוצים להזמין או לקבל ייעוץ מקצועי? צוות ההפצה הרשמי בישראל מחכה לכם. מלאו את הטופס וקבלו מענה מהיר — הפתרון שלכם מתחיל כאן!
+
+### תודה על פנייתך
+https://superzilla-23d2ba7b.zappy5.app/thank-you
+Superzilla - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://superzilla-23d2ba7b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://superzilla-23d2ba7b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://superzilla-23d2ba7b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://superzilla-23d2ba7b.zappy5.app/contact
+- Endpoint: https://superzilla-23d2ba7b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Superzilla
+An official exclusive distributor of Superzilla — a well-known penetrating lubricant and cleaning solution brand — operating in the Israeli market. The business carries the authority and trust of an exclusive regional distributor, positioning Superzilla as the go-to solution for consumers and professionals in Israel. The brand identity leans on the power and reliability of the Superzilla name while emphasizing local exclusivity and availability.
+
+## Target Audience
+- Israeli consumers and businesses
+- עסקים ישראלים
+- קונים מקוונים
+- חנויות קמעונאיות
+
+## Industry
+Product Distribution
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://superzilla-23d2ba7b.zappy5.app/sitemap.xml
+- Robots: https://superzilla-23d2ba7b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://superzilla-23d2ba7b.zappy5.app/llms-full.txt
